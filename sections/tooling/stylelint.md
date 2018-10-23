@@ -228,7 +228,8 @@ if (condition) {
 
 ```js
 if (condition) {
-  const Button = styled.button`
+  const Button = styled.button
+  `
     color: red;
   `
 }
@@ -237,8 +238,7 @@ if (condition) {
 ```js
 if (condition) {
   const Button = styled.button`
-    color: red;
-  `
+    color: red;`
 }
 ```
 
